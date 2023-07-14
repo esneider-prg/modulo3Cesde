@@ -1,0 +1,29 @@
+
+.default {
+
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    margin-left: 480px;
+    margin-top: 50px;
+    border: 2px double black;
+    
+}
+
+.titulo {
+    text-align: center;
+
+}
+
+td {
+    text-align: center;
+    background-color: aqua;
+    color: chocolate;
+  }
+
+
+table {
+    background-color: aquamarine;
+}
+

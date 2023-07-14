@@ -1,0 +1,74 @@
+body{
+    background-color: rgba(241, 118, 17, 0.76);
+   text-align: center;
+}
+
+
+#container {
+
+    background: gray;
+    border: 2px solid black;
+}
+
+#cabecera {
+    background-color:red;
+    height: 20%;
+    
+}
+
+#menu {
+    height: 10%;
+    background-color: #c8cacc;
+}
+
+#izquierda {
+    height: 50%;
+    background-color: yellow;
+    float: left;
+    width: 50%;
+}
+
+#derecha {
+    height: 50%;
+    background-color: orange;
+    float: right;
+    width: 50%;
+}
+
+#pie {
+    height: 20%;
+    background-color: green;
+    clear: both;
+}
+
+/* actividad */
+
+#encabezado {
+    background-color: pink;
+    height: 90%;
+    border: 2px solid black;
+}
+
+#cuerpop {
+    height: 500px;
+    background-color: yellow;
+    float: left;
+    width: 70%;
+    border: 2px solid black;
+    
+}
+
+#barral {
+    height: 500px;
+    background-color: orange;
+    float: right;
+    width: 20%;
+    border: 2px solid black;
+}
+
+#piep {
+    background-color: pink;
+    height: 100px;
+    clear: both;
+    border: 2px solid black;
+}
